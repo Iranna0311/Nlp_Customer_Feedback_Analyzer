@@ -1,0 +1,17 @@
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.gitignore
+data/models
+*.pkl
+*.joblib
+.DS_Store
+*.egg-info
+.coverage
+htmlcov/
+dist/
+build/
+.venv/
+venv/
